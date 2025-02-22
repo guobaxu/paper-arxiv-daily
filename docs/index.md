@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -12,7 +12,7 @@ layout: default
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-17**|**From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**|Matteo Scucchia et.al.|[2502.12303](http://arxiv.org/abs/2502.12303)|null|
-|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
+|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
 |**2025-02-17**|**Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**|Yanbin Li et.al.|[2502.11486](http://arxiv.org/abs/2502.11486)|null|
 |**2025-02-16**|**GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**|Zelin Zhou et.al.|[2502.10975](http://arxiv.org/abs/2502.10975)|null|
 |**2025-02-19**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|**[link](https://github.com/ctu-vras/monoforce)**|
@@ -4247,6 +4247,21 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## ReID
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Exploring the Camera Bias of Person Re-identification**|Myungseo Song et.al.|[2502.10195](http://arxiv.org/abs/2502.10195)|null|
+|**2025-02-10**|**CHIRLA: Comprehensive High-resolution Identification and Re-identification for Large-scale Analysis**|Bessie Dominguez-Dager et.al.|[2502.06681](http://arxiv.org/abs/2502.06681)|**[link](https://github.com/bdager/CHIRLA)**|
+|**2025-02-11**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619](http://arxiv.org/abs/2502.06619)|**[link](https://github.com/RikoLi/DCAC)**|
+|**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
+|**2025-01-28**|**Not Every Patch is Needed: Towards a More Efficient and Effective Backbone for Video-based Person Re-identification**|Lanyun Zhu et.al.|[2501.16811](http://arxiv.org/abs/2501.16811)|null|
+|**2025-02-11**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
+|**2025-01-23**|**From Cross-Modal to Mixed-Modal Visible-Infrared Re-Identification**|Mahdi Alehdaghi et.al.|[2501.13307](http://arxiv.org/abs/2501.13307)|null|
+|**2025-01-22**|**Modality Unified Attack for Omni-Modality Person Re-Identification**|Yuan Bian et.al.|[2501.12761](http://arxiv.org/abs/2501.12761)|null|
+|**2025-01-15**|**TCMM: Token Constraint and Multi-Scale Memory Bank of Contrastive Learning for Unsupervised Person Re-identification**|Zheng-An Zhu et.al.|[2501.09044](http://arxiv.org/abs/2501.09044)|**[link](https://github.com/andy412510/tcmm)**|
+|**2025-01-13**|**Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration**|Renkai Li et.al.|[2501.07296](http://arxiv.org/abs/2501.07296)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
