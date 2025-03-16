@@ -1,4 +1,4 @@
-## Updated on 2025.03.11
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
+|**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296](http://arxiv.org/abs/2503.09296)|null|
+|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
+|**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819](http://arxiv.org/abs/2503.07819)|null|
+|**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662](http://arxiv.org/abs/2503.07662)|null|
+|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890](http://arxiv.org/abs/2503.06890)|**[link](https://github.com/vvEverett/tello_ros)**|
+|**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010](http://arxiv.org/abs/2503.06010)|**[link](https://github.com/drawingprocess/infofusioncontroller)**|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
@@ -853,7 +862,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## SFM
 
@@ -1194,7 +1203,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2244,7 +2253,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2525,7 +2534,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2820,7 +2829,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## NeRF
 
@@ -4297,14 +4306,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## ReID
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**|Jiayu Jiang et.al.|[2503.09962](http://arxiv.org/abs/2503.09962)|null|
+|**2025-03-11**|**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**|Huy Nguyen et.al.|[2503.08121](http://arxiv.org/abs/2503.08121)|null|
+|**2025-03-10**|**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**|Shining Wang et.al.|[2503.06965](http://arxiv.org/abs/2503.06965)|**[link](https://github.com/wangshining681/secap-agpreid)**|
+|**2025-03-09**|**A Quantitative Evaluation of the Expressivity of BMI, Pose and Gender in Body Embeddings for Recognition and Identification**|Basudha Pal et.al.|[2503.06451](http://arxiv.org/abs/2503.06451)|null|
 |**2025-02-28**|**Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025**|Kunjun Li et.al.|[2503.01907](http://arxiv.org/abs/2503.01907)|null|
-|**2025-03-02**|**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**|Chao Yuan et.al.|[2503.00938](http://arxiv.org/abs/2503.00938)|**[link](https://github.com/yuanc3/Pose2ID)**|
+|**2025-03-11**|**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**|Chao Yuan et.al.|[2503.00938](http://arxiv.org/abs/2503.00938)|**[link](https://github.com/yuanc3/Pose2ID)**|
 |**2025-03-01**|**TSDW: A Tri-Stream Dynamic Weight Network for Cloth-Changing Person Re-Identification**|Ruiqi He et.al.|[2503.00477](http://arxiv.org/abs/2503.00477)|null|
 |**2025-02-28**|**Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**|Yuheng Jia et.al.|[2502.21163](http://arxiv.org/abs/2502.21163)|null|
 |**2025-02-27**|**ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models**|Ke Niu et.al.|[2502.19958](http://arxiv.org/abs/2502.19958)|null|
@@ -4320,7 +4333,7 @@
 |**2025-01-15**|**TCMM: Token Constraint and Multi-Scale Memory Bank of Contrastive Learning for Unsupervised Person Re-identification**|Zheng-An Zhu et.al.|[2501.09044](http://arxiv.org/abs/2501.09044)|**[link](https://github.com/andy412510/tcmm)**|
 |**2025-01-13**|**Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration**|Renkai Li et.al.|[2501.07296](http://arxiv.org/abs/2501.07296)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

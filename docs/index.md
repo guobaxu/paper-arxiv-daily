@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331](http://arxiv.org/abs/2503.10331)|null|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
+|**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296](http://arxiv.org/abs/2503.09296)|null|
+|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
+|**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819](http://arxiv.org/abs/2503.07819)|null|
+|**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662](http://arxiv.org/abs/2503.07662)|null|
+|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890](http://arxiv.org/abs/2503.06890)|**[link](https://github.com/vvEverett/tello_ros)**|
+|**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010](http://arxiv.org/abs/2503.06010)|**[link](https://github.com/drawingprocess/infofusioncontroller)**|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
@@ -4282,8 +4291,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**|Jiayu Jiang et.al.|[2503.09962](http://arxiv.org/abs/2503.09962)|null|
+|**2025-03-11**|**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**|Huy Nguyen et.al.|[2503.08121](http://arxiv.org/abs/2503.08121)|null|
+|**2025-03-10**|**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**|Shining Wang et.al.|[2503.06965](http://arxiv.org/abs/2503.06965)|**[link](https://github.com/wangshining681/secap-agpreid)**|
+|**2025-03-09**|**A Quantitative Evaluation of the Expressivity of BMI, Pose and Gender in Body Embeddings for Recognition and Identification**|Basudha Pal et.al.|[2503.06451](http://arxiv.org/abs/2503.06451)|null|
 |**2025-02-28**|**Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025**|Kunjun Li et.al.|[2503.01907](http://arxiv.org/abs/2503.01907)|null|
-|**2025-03-02**|**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**|Chao Yuan et.al.|[2503.00938](http://arxiv.org/abs/2503.00938)|**[link](https://github.com/yuanc3/Pose2ID)**|
+|**2025-03-11**|**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**|Chao Yuan et.al.|[2503.00938](http://arxiv.org/abs/2503.00938)|**[link](https://github.com/yuanc3/Pose2ID)**|
 |**2025-03-01**|**TSDW: A Tri-Stream Dynamic Weight Network for Cloth-Changing Person Re-Identification**|Ruiqi He et.al.|[2503.00477](http://arxiv.org/abs/2503.00477)|null|
 |**2025-02-28**|**Adaptive Illumination-Invariant Synergistic Feature Integration in a Stratified Granular Framework for Visible-Infrared Re-Identification**|Yuheng Jia et.al.|[2502.21163](http://arxiv.org/abs/2502.21163)|null|
 |**2025-02-27**|**ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models**|Ke Niu et.al.|[2502.19958](http://arxiv.org/abs/2502.19958)|null|
