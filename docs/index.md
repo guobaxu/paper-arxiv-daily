@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693](http://arxiv.org/abs/2504.17693)|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582](http://arxiv.org/abs/2504.17582)|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545](http://arxiv.org/abs/2504.16545)|null|
+|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
+|**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
+|**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
+|**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440](http://arxiv.org/abs/2504.14440)|**[link](https://github.com/hkust-aerial-robotics/sg-reg)**|
+|**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135](http://arxiv.org/abs/2504.14135)|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|**[link](https://github.com/jixingwu/sol-slam)**|
 |**2025-04-18**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416](http://arxiv.org/abs/2504.10416)|null|
@@ -4338,6 +4348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
 |**2025-04-16**|**Neighbor-Based Feature and Index Enhancement for Person Re-Identification**|Chao Yuan et.al.|[2504.11798](http://arxiv.org/abs/2504.11798)|null|
 |**2025-04-15**|**TransitReID: Transit OD Data Collection with Occlusion-Resistant Dynamic Passenger Re-Identification**|Kaicong Huang et.al.|[2504.11500](http://arxiv.org/abs/2504.11500)|null|
