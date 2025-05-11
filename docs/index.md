@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|null|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
+|**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
+|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598](http://arxiv.org/abs/2505.02598)|null|
+|**2025-05-04**|**Robust Localization, Mapping, and Navigation for Quadruped Robots**|Dyuman Aditya et.al.|[2505.02272](http://arxiv.org/abs/2505.02272)|null|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
+|**2025-05-03**|**GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**|Yongxin Su et.al.|[2505.01934](http://arxiv.org/abs/2505.01934)|null|
 |**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017](http://arxiv.org/abs/2505.01017)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -4361,9 +4369,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-01**|**Person detection and re-identification in open-world settings of retail stores and public spaces**|Branko Brkljač et.al.|[2505.00772](http://arxiv.org/abs/2505.00772)|null|
+|**2025-05-06**|**Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification**|Zhihao Gong et.al.|[2505.03286](http://arxiv.org/abs/2505.03286)|null|
+|**2025-05-06**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
+|**2025-05-01**|**Person detection and re-identification in open-world settings of retail stores and public spaces**|Branko Brkljač et.al.|[2505.00772](http://arxiv.org/abs/2505.00772)|**[link](https://github.com/brkljac/personReID)**|
 |**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619](http://arxiv.org/abs/2505.00619)|null|
-|**2025-04-27**|**Semantic-Aligned Learning with Collaborative Refinement for Unsupervised VI-ReID**|De Cheng et.al.|[2504.19244](http://arxiv.org/abs/2504.19244)|null|
+|**2025-05-06**|**Semantic-Aligned Learning with Collaborative Refinement for Unsupervised VI-ReID**|De Cheng et.al.|[2504.19244](http://arxiv.org/abs/2504.19244)|**[link](https://github.com/franklinlingfeng/code-for-salcr)**|
 |**2025-04-25**|**ShapeSpeak: Body Shape-Aware Textual Alignment for Visible-Infrared Person Re-Identification**|Shuanglin Yan et.al.|[2504.18025](http://arxiv.org/abs/2504.18025)|null|
 |**2025-04-22**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
