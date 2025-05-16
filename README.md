@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|null|
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|**[link](https://github.com/stevvwen/aerial_gnss)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -940,7 +945,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## SFM
 
@@ -1281,7 +1286,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2331,7 +2336,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2612,7 +2617,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2907,7 +2912,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## NeRF
 
@@ -4384,12 +4389,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## ReID
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Differentiable Channel Selection in Self-Attention For Person Re-Identification**|Yancheng Wang et.al.|[2505.08961](http://arxiv.org/abs/2505.08961)|**[link](https://github.com/statistical-deep-learning/dcs-attention)**|
+|**2025-05-10**|**OptiGait-LGBM: An Efficient Approach of Gait-based Person Re-identification in Non-Overlapping Regions**|Md. Sakib Hassan Chowdhury et.al.|[2505.08801](http://arxiv.org/abs/2505.08801)|null|
 |**2025-05-06**|**Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification**|Zhihao Gong et.al.|[2505.03286](http://arxiv.org/abs/2505.03286)|null|
 |**2025-05-06**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
 |**2025-05-01**|**Person detection and re-identification in open-world settings of retail stores and public spaces**|Branko Brkljač et.al.|[2505.00772](http://arxiv.org/abs/2505.00772)|**[link](https://github.com/brkljac/personReID)**|
@@ -4434,7 +4441,7 @@
 |**2025-01-15**|**TCMM: Token Constraint and Multi-Scale Memory Bank of Contrastive Learning for Unsupervised Person Re-identification**|Zheng-An Zhu et.al.|[2501.09044](http://arxiv.org/abs/2501.09044)|**[link](https://github.com/andy412510/tcmm)**|
 |**2025-01-13**|**Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration**|Renkai Li et.al.|[2501.07296](http://arxiv.org/abs/2501.07296)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

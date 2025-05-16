@@ -2,14 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|null|
+|**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
+|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|**[link](https://github.com/stevvwen/aerial_gnss)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -4369,6 +4374,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Differentiable Channel Selection in Self-Attention For Person Re-Identification**|Yancheng Wang et.al.|[2505.08961](http://arxiv.org/abs/2505.08961)|**[link](https://github.com/statistical-deep-learning/dcs-attention)**|
+|**2025-05-10**|**OptiGait-LGBM: An Efficient Approach of Gait-based Person Re-identification in Non-Overlapping Regions**|Md. Sakib Hassan Chowdhury et.al.|[2505.08801](http://arxiv.org/abs/2505.08801)|null|
 |**2025-05-06**|**Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification**|Zhihao Gong et.al.|[2505.03286](http://arxiv.org/abs/2505.03286)|null|
 |**2025-05-06**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
 |**2025-05-01**|**Person detection and re-identification in open-world settings of retail stores and public spaces**|Branko Brkljač et.al.|[2505.00772](http://arxiv.org/abs/2505.00772)|**[link](https://github.com/brkljac/personReID)**|
