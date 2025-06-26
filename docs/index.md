@@ -2,15 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
+|**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
+|**2025-06-24**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou et.al.|[2506.18204](http://arxiv.org/abs/2506.18204)|null|
+|**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016](http://arxiv.org/abs/2506.18016)|null|
+|**2025-06-21**|**Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**|Sebastian Sansoni et.al.|[2506.17775](http://arxiv.org/abs/2506.17775)|null|
 |**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402](http://arxiv.org/abs/2506.15402)|null|
-|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
+|**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126](http://arxiv.org/abs/2506.15126)|null|
 |**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long et.al.|[2506.13664](http://arxiv.org/abs/2506.13664)|null|
@@ -4426,7 +4431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897](http://arxiv.org/abs/2506.13897)|null|
+|**2025-06-20**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897](http://arxiv.org/abs/2506.13897)|null|
 |**2025-06-16**|**Evolution of ReID: From Early Methods to LLM Integration**|Amran Bhuiyan et.al.|[2506.13039](http://arxiv.org/abs/2506.13039)|null|
 |**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|**[link](https://github.com/perceptualai-lab/awesome-domain-generalizable-person-re-id)**|
 |**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|**[link](https://github.com/zplusdragon/reid5o_orbench)**|
